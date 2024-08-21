@@ -1,5 +1,7 @@
 # Authentication and Authorisation with ExpressJS
 # README
+> [!IMPORTANT]
+> It is recommended to read through each `README.md` file in the `back-end` and `web-front-end` folders as they contain information that you might need for installation and further understanding of the project.
 ## File Structure
 
 ```
@@ -36,11 +38,7 @@
     └── styles
         └── styles.css
 
-13 directories, 16 files
 ```
-
-> [!IMPORTANT]
-> It is recommended to read through each `README.md` file in the back-end and web-front-end folders as they contain information that you might need for further understanding of the project.
 
 We do recommend this flowchart to know how the files and folders are interconnected they are.
 
