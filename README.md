@@ -37,10 +37,9 @@
     ├── README.md
     └── styles
         └── styles.css
-
 ```
-
-We do recommend this flowchart to know how the files and folders are interconnected they are.
+Note: Not all files are indicated.
+### We do recommend this flowchart to know how the files and folders are interconnected they are.
 
 ```mermaid
 flowchart RL
